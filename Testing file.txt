@@ -1,3 +1,2 @@
-Testing a branch commit
-
+Testing a removal 
 further additions to codebase
